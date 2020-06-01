@@ -1,0 +1,14 @@
+Este proyecto fue realizado con:
+
+MySQL 5.7
+Laravel 7.13
+PHP >= 7.2.5
+BCMath PHP Extension
+Ctype PHP Extension
+Fileinfo PHP extension
+JSON PHP Extension
+Mbstring PHP Extension
+OpenSSL PHP Extension
+PDO PHP Extension
+Tokenizer PHP Extension
+XML PHP Extension
